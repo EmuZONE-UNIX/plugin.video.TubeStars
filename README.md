@@ -1,1 +1,1 @@
-# plugin.video.leschundco
+# plugin.video.TubeStars
